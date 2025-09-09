@@ -1,12 +1,12 @@
-# LocalWave
+# Musicy
 
 ![Screenshots](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/frame_source.webp)
 
-LocalWave is an **offline-first** music player for iOS that enables full control of your personal MP3 library without relying on Apple Music or iTunes Match. Built with SwiftUI and structured using a layered MVVM + Actor-based architecture, LocalWave prioritizes offline use and searchability. It was designed out of frustration with Apple's closed ecosystem and lack of decent support for self-hosted MP3 libraries. 
+Musicy is an **offline-first** music player for iOS that enables full control of your personal MP3 library without relying on Apple Music or iTunes Match. Built with SwiftUI and structured using a layered MVVM + Actor-based architecture, Musicy prioritizes offline use and searchability. It was designed out of frustration with Apple's closed ecosystem and lack of decent support for self-hosted MP3 libraries. 
 
-## Why LocalWave Exists
+## Why Musicy Exists
 
-In 2025, Apple still restricts basic MP3 playback unless you pay for services like Apple Music or iTunes Match. LocalWave was built from scratch as a personal response to these limitations. It allows users to:
+In 2025, Apple still restricts basic MP3 playback unless you pay for services like Apple Music or iTunes Match. Musicy was built from scratch as a personal response to these limitations. It allows users to:
 
 - Import MP3 files from iCloud or Files app using persistent bookmarks
 - Build and search their own curated music libraries
